@@ -1,0 +1,7 @@
+name: JustwePlugin
+version: 1.0.0
+main: io.papermc.testplugin.ExamplePlugin
+description: Yuer's first Plugin
+author: Yuer
+website: https://papermc.io
+api-version: 1.18
